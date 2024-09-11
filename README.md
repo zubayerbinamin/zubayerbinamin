@@ -1,12 +1,12 @@
-Hey there! I'm Zubayer 👋
-•	👀 Seeking an Engineering Co-op position for Winter 2025❄️(4 months)
-•	📖Pursuing Bachelor of Electrical Engineering at MUN (Term 3)
-•	🌱 I’m currently working on Full stack applications
-•	🔭 I have a passion for history, hiking, and strategy video games
-•	📫 How to reach me: mtz.binamin@gmail.com  
-•	📗 My Resume: 
-•	🌐 Check out my Portfolio website: 
-•	⚡ Fun fact: I'm Left-handed
+Hey there! I'm Zubayer👋
+- 👀 Seeking an Engineering Co-op position for Winter 2025❄️(4 months)
+-	📖 Pursuing Bachelor of Electrical Engineering at MUN (Term 3)
+-	🌱 I’m currently working on Full stack applications
+-	🔭 I have a passion for history, hiking, and strategy video games
+-	📫 How to reach me: mtz.binamin@gmail.com  
+-	📗 My Resume: 
+-	🌐 Check out my Portfolio website: 
+-	⚡ Fun fact: I'm Left-handed
 
 
 <!--
