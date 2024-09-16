@@ -4,8 +4,6 @@ Hey there! I'm Zubayer👋
 -	🌱 I’m currently working on Full stack applications
 -	🔭 I have a passion for history, hiking, and strategy video games
 -	📫 How to reach me: mtz.binamin@gmail.com  
--	📗 My Resume: 
--	🌐 Check out my Portfolio website: 
 -	⚡ Fun fact: I'm Left-handed
 
 
@@ -22,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-	📗 My Resume: 
+-	🌐 Check out my Portfolio website: 
 -->
